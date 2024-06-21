@@ -1,0 +1,10 @@
+{
+  "name": "com.slg.vr-interaction",
+  "description": "The VR Interaction is a VR interaction package, made by SLG.",
+  "version": "0.0.1",
+  "unity": "2021.2",
+  "displayName": "VR Interaction",
+  "dependencies": {
+    "com.unity.xr.interaction.toolkit": "2.2.0"
+  }
+}

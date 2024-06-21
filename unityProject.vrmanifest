@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.stingertest.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Unity\\StingerTest\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "StingerTest [Testing]"
+        }
+      }
+    }
+  ]
+}
